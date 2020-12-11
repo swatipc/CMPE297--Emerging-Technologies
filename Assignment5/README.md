@@ -1,4 +1,4 @@
-Text classification with attention and transformer layer
+**Text classification with attention and transformer layer**
 
 This repository contains implementation of below concepts:
 1. Simple transformer with attention layer for text classification of imdb
